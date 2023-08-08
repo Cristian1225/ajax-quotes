@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>AJAX Quotes</title>
+  </head>
+  <body>
+    <h1>AJAX Quotes</h1> 
+    <p>Click below to return a random quote</p>
+    <button
+  </body>
+</html>
